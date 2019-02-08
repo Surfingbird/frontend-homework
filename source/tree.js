@@ -1,3 +1,5 @@
+'use strict';
+
 function isCorrectVal(n) {
     let parseVal = parseFloat(n);
 
